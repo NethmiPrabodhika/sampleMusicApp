@@ -23,7 +23,7 @@ public class MyMusic extends Service {
         player.start();
         return START_STICKY;
     }
-
+//abcd
     @Override
     public void onDestroy() {
         super.onDestroy();
